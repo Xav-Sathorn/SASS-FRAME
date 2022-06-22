@@ -21,5 +21,5 @@ dans .jSon changer
 par
 "sass": "sass --watch ./sass/_main.scss:./css/style.css"
 
-créer dossiers css + fichier style.css et sass + fichier _main.scss
+créer dossiers css + fichier style.css et sass + fichier main.scss
 npm run sass
